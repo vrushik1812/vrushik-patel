@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+<style>
+    body{
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    img{
+        height: 400;
+        width: 100%;
+    }
+    div {
+  padding-left:px;
+  border: 2px solid #090909;
+}
+.heading{
+    text-align: center;
+}
+img.one{
+    height:40%;
+    width: 40%;
+}
+{
+  box-sizing: border-box;
+}
+
+.row {
+  margin-left:-5px;
+  margin-right:-5px;
+}
+  
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+} 
+a{
+  color: rgb(14, 9, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+.another
+{
+    background-color: rgb(65, 66, 66);
+}
+</style>
+</head>
+<body>
+    
+    <center>
+        <img src="iiitknew.jpg">
+    </center>
+    <h2 style="background-color:rgb(205, 205, 205);">ABOUT US&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADMINISTRATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADMISSION &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PEOPLE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACADEMICS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tpcell.iiitkota.ac.in/">PLACEMENTS</a></h2>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 class="heading";>WELCOME TO INDIAN INSTITUTE OF INFORMATION TECHNOLOGY KOTA</h2>
+    <br>
+    <br>
+    <br>
+
+    <img class="one" src="p1.jpeg"
+        style="float:left; margin-right:40px;border:solid black 1px; padding: 2px" />
+        <br>
+        
+              <p style="font-size:x-large;">  Indian   Institute   of   Information   Technology,   Kota (IIIT, Kota)   is   an   institute   of  national   importance. 
+                IIIT   Kota   is   a   joint   venture   of   the   Ministry   of   Education  (MoE) Govt. of India   and 
+                Govt. of Rajasthan   with   Industry   Partners   in   Public-Private-Partnership (PPP)   model. 
+                IIIT   Kota   was   established   in   2013.   Currently,   the   institute   is   mentored   by   Malaviya   National   Institute   of   Technology   Jaipur (MNIT Jaipur)
+                 and   is   situated   at   MNIT   Jaipur.   The   main   site   of   IIIT, Kota   shall   be   constructed   at
+                Ranpur   near   Kota   on   100.37   acres   of   land   made   available   by   the   Govt. of Rajasthan.
+              </p>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+            
+              <div class="row">
+               
+                  <table>
+                    <tr>
+                      <th >LATEST UPDATES</th>
+                      
+                    </tr>
+                    <tr>
+                      <td><marquee width="100%" direction="right" height="15px">Attention: Newly Admitted 1st Year Students of 2021-22 (UG)</marquee></td>
+                      
+                    </tr>
+                    <tr>
+                      <td><marquee width="100%" direction="right" height="15px">B. Tech First year Online Classes shall commence from 3rd January 2022.</marquee></td>
+                      
+                    </tr>
+                    <tr>
+                      <td><marquee width="100%" direction="right" height="15px">Online Admission Procedure for B.TECH. Programme 2021-22.</marquee></td>
+                      
+                    </tr>
+                  </table>
+                </div>
+                <div class="row">
+                  <table>
+                    <tr>
+                      <th>ANNOUNCEMENTS</th>
+                     
+                    </tr>
+                    <tr>
+                      <td><a href="https://files.iiitkota.ac.in/pdf/AIRE%20brochure.pdf"><marquee width="100%" direction="right" height="15px">GIAN Course on AI for Information Retrieval and Extraction from May 9-13, 2022</marquee></a></td>
+                      
+                    </tr>
+                    <tr>
+                      <td ><a href="https://files.iiitkota.ac.in/pdf/Office_Order_Offline%20Classes.pdf"><marquee width="100%" direction="right" height="15px">Notice regarding reporting to the Institute for Offline Classes.</marquee></a></td>
+                      
+                    </tr>
+                    <tr>
+                      <td><a href="https://files.iiitkota.ac.in/pdf/Brochure/Quantum%20Computing%20DRDO.pdf"><marquee width="100%" direction="right" height="15px">Quantum Computing Workshop</marquee></a></td>
+                      
+                    </tr>
+                  </table>
+                </div>
+              </div>
+              
+              <div class="another">
+                <br>
+                <br>
+                <h3 style="color: white;">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    LOCATION:- MNIT Campus, Jaipur,
+                    302017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONTACT US:-
+                    0141-2715071&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAIL ID:-
+                    office@iiitkota.ac.in&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img
+                        
+                    <br>
+                    <br>
+                    <h5 style="color: white">
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        ANNUAL
+                        REPORTS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CAMPUS
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HOLIDAYS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        ICCW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RECRUITMENT
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TENDER
+                        INVITATIONS
+                        <br>
+                        <br><br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        WEBMASTERS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IT
+                        INFRASTRUCTURE
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PPP
+                        ACT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        RTI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SITEMAP
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e-LDA
+                        Lab
+                    </h5>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <h2 style="color: white;">
+                    </h2> <br><br>
+                    <h5 style="color: white;">
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                       <a href="https://iiitkota.ac.in/" style="color:white" >VISIT IIITKOTA</a></h5><br><br>
+        
+                </h3>
+              </div>      
+     
+       
+</body>
+</html>
